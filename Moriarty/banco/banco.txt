@@ -1,0 +1,6 @@
+Querido Professor!
+Execute os arquivos SQL na seguinte ordem:
+
+1 - SCRIPT_DDL_ALTERACOES_AM_MORIART_1TDSF.sql;
+2 - SCRIPT_DDL_AM_MORIART_1TDSF_SEQUENCIAS.sql;
+3 - SCRIPT_DML_AM_MORIART_1TDSF.sql;
